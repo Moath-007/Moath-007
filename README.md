@@ -39,7 +39,7 @@
 ### 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/moath-dwairi-b841a232a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
-<a href="https://www.facebook.com/معاذ دويري" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28" /></a>
+<a href="https://www.facebook.com/share/1DoA9aoj1P/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28" /></a>
 <a href="https://www.instagram.com/moath_dwairi_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" /></a>
 <a href="https://wa.me/+972594324983" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28" /></a>
 <a href="https://discordapp.com/users/moath0581" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28" /></a>

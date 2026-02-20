@@ -5,7 +5,7 @@
 </p>
 
 ### ⚡ About Me
-- 🌱 Currently mastering **Java & Spring Boot** while sharpening my coding skills.
+- 💻 Leaning towards Backend Development, crafting reliable server-side logic.
 - 🚀 Upcoming Missions: Deep diving into **Flutter** & **React**.
 - 🔭 Trying to enjoy the journey.
 ---

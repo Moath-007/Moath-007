@@ -5,9 +5,9 @@
 </p>
 
 ### ⚡ About Me
-- 🌱 Currently exploring new technologies and improving my coding skills.
+- 🌱 Currently mastering **Java & Spring Boot** while sharpening my coding skills.
+- 🚀 Upcoming Missions: Deep diving into **Flutter** & **React**.
 - 🔭 Trying to enjoy the journey.
-
 ---
 
 ### 🛠 My Tech Arsenal
@@ -34,7 +34,7 @@
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/moath-dwairi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moath-dwairi-b841a232a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://wa.me/+972594324983" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" /></a>
 
 <a href="mailto:dweerey10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>

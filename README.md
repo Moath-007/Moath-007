@@ -28,12 +28,13 @@
 ---
 
 ### 📊 Tactical Analytics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moath-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moath-007&layout=compact&langs_count=7&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Moath-007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <!-- Top Languages -->
+  <img height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Moath-007&layout=compact&langs_count=7&theme=radical" />
 </p>
-
 ---
 
 ### 📫 Connect with me :)
